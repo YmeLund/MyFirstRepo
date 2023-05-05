@@ -1,7 +1,3 @@
 This is my text file.
-<<<<<<< HEAD
-This is my edit.
-=======
 This is my edit.
 This is branch 2.
->>>>>>> 5a204cd489f618dc44727bb92ecc4b9be4a9c5eb
